@@ -1,5 +1,3 @@
-Hi.
-This is my public repo consisting of few Minor Python Programmming language based projects. 
-Hope this helps you get an idea of the method to build mini projects in Python programming language.
-Thanks.
+Welcome to my Git Repo.
+This repository consists of some of my Python Projects built by implementing several amazing libraries of python programming language. 
 #code_mode
